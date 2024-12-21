@@ -1,2 +1,2 @@
 # InnoHacksHackathonApp
-my manager script for the app prototype
+Manager script for the app prototype
